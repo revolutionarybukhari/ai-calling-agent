@@ -1,4 +1,4 @@
-# AI Calling Agent
+# AI Calling Agent using twilio and openai
 
 The AI Calling Agent is an innovative solution designed to automate both inbound and outbound calling processes, currently tailored as a mental health consultant. This project leverages a combination of cutting-edge technologies including Twilio for call handling, OpenAI for intelligent conversation, Pinecone for vector database services, and MongoDB for data persistence.
 

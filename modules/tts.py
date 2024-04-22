@@ -39,7 +39,7 @@ def synthesize_speech(text, filename="answer"):
         headers = {
         "Accept": "audio/mpeg",
         "Content-Type": "application/json",
-        "xi-api-key": "5a356e03eacfb14667a2a61c44f4a178"
+        "xi-api-key": "5a35---4a178"
         }
 
         data = {

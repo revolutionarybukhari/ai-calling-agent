@@ -7,6 +7,6 @@ def send_whatsapp_message(recipient, message):
     number="whatsapp:"+recipient
     twilio_client.messages.create(
         body=message,
-        from_='whatsapp:+14155238886',  # Your Twilio WhatsApp number
+        from_='whatsapp:+1415----8886',  # Your Twilio WhatsApp number
         to=number
     )
